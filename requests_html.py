@@ -12,7 +12,7 @@ import http.cookiejar
 from pyquery import PyQuery
 
 from fake_useragent import UserAgent
-from lxml.html.clean import Cleaner
+from lxml_html_clean import Cleaner
 import lxml
 from lxml import etree
 from lxml.html import HtmlElement
